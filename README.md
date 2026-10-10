@@ -9,8 +9,8 @@ AgroHub is a collaborative platform built to connect agricultural stakeholders, 
 * **Resource & Information Hub:** Access helpful insights, farming tools, and guidelines.
 * **Responsive Design:** Optimized for seamless usage across desktop and mobile devices.
 
-## 🛠️ Current & 
-Potential Tech Stack
+## 🛠️ Current 
+
 
 
 * **Frontend:** HTML5, CSS3, JavaScript / React
