@@ -12,10 +12,10 @@ AgroHub is a collaborative platform built to connect agricultural stakeholders, 
 ## 🛠️ Current & 
 Potential Tech Stack
 
-*(Update this section based on the specific languages and frameworks used in your repository)*
+
 * **Frontend:** HTML5, CSS3, JavaScript / React
-* **Backend:** Node.js / Express (or Python / Django)
-* **Database:** MongoDB / PostgreSQL
+* **Backend:** Node.js, FastAPI
+* **Database:** SQLite
 
 ## 📂 Project Structure
 
